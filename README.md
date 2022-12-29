@@ -4,7 +4,7 @@ x86-64 assembly (nasm syntax) int32 qsort
 
 lightweight and fast
 
-max memory consumption ~24*N bytes (3*8 bytes per recursive call)
+max memory consumption ~24*N bytes (24 bytes per recursive call)
 
 average memory consumption ~24*log2(N)
 

@@ -1,6 +1,6 @@
 # lightQsort
 
-x86-64 assembly int32 qsort
+x86-64 assembly (nasm syntax) int32 qsort
 
 lightweight and fast
 
